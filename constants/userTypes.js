@@ -1,0 +1,13 @@
+const GET_USER = 'GET_USER';
+const GET_LIST = 'GET_LIST';
+const CLEAR_LIST = 'CLEAR_LIST';
+const SET_DIALOG = 'SET_DIALOG';
+const STORE_IMAGES = 'STORE_IMAGES';
+
+export {
+    GET_USER,
+    GET_LIST,
+    CLEAR_LIST,
+    SET_DIALOG,
+    STORE_IMAGES
+}
